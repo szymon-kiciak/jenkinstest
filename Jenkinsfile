@@ -10,9 +10,9 @@ steps {
 git credentialsId: 'szymon-kiciak', url: 'https://github.com/szymon-kiciak/jenkinstest',branch: 'master'
 }
 }
-stage ('Restore PACKAGES') {
+stage('Clean') {
 steps {
-bat "dotnet restore --configfile NuGet.Config"
+bat 'dotnet clean'
 }
 }
 stage('Build') {
