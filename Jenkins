@@ -7,7 +7,7 @@ dotnet = 'C:\Program Files\dotnet\dotnet.exe'
 stages {
 stage ('Checkout') {
 steps {
-git credentialsId: 'userId', url: 'https://github.com/szymon-kiciak/jenkinstest',branch: 'master'
+git credentialsId: 'szymon-kiciak', url: 'https://github.com/szymon-kiciak/jenkinstest',branch: 'master'
 }
 }
 stage ('Restore PACKAGES') {
