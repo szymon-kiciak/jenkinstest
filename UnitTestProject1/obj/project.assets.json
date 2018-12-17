@@ -8512,10 +8512,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\szymonmac\\documents\\visual studio 2017\\Projects\\ConsoleApp1\\UnitTestProject1\\UnitTestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\szymonmac\\Desktop\\GitHub repo\\ConsoleApp1\\UnitTestProject1\\UnitTestProject1.csproj",
       "projectName": "UnitTestProject1",
-      "projectPath": "c:\\users\\szymonmac\\documents\\visual studio 2017\\Projects\\ConsoleApp1\\UnitTestProject1\\UnitTestProject1.csproj",
-      "outputPath": "c:\\users\\szymonmac\\documents\\visual studio 2017\\Projects\\ConsoleApp1\\UnitTestProject1\\obj\\",
+      "projectPath": "C:\\Users\\szymonmac\\Desktop\\GitHub repo\\ConsoleApp1\\UnitTestProject1\\UnitTestProject1.csproj",
+      "outputPath": "C:\\Users\\szymonmac\\Desktop\\GitHub repo\\ConsoleApp1\\UnitTestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -8523,8 +8523,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "c:\\users\\szymonmac\\documents\\visual studio 2017\\Projects\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
-              "projectPath": "c:\\users\\szymonmac\\documents\\visual studio 2017\\Projects\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj"
+            "C:\\Users\\szymonmac\\Desktop\\GitHub repo\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+              "projectPath": "C:\\Users\\szymonmac\\Desktop\\GitHub repo\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj"
             }
           }
         }

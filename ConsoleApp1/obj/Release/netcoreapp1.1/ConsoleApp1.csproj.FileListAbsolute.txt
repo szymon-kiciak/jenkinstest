@@ -1,0 +1,8 @@
+C:\Users\szymonmac\Desktop\GitHub repo\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp1.1\ConsoleApp1.deps.json
+C:\Users\szymonmac\Desktop\GitHub repo\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp1.1\ConsoleApp1.runtimeconfig.json
+C:\Users\szymonmac\Desktop\GitHub repo\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp1.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\szymonmac\Desktop\GitHub repo\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp1.1\ConsoleApp1.dll
+C:\Users\szymonmac\Desktop\GitHub repo\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp1.1\ConsoleApp1.pdb
+C:\Users\szymonmac\Desktop\GitHub repo\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp1.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\szymonmac\Desktop\GitHub repo\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp1.1\ConsoleApp1.dll
+C:\Users\szymonmac\Desktop\GitHub repo\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp1.1\ConsoleApp1.pdb
